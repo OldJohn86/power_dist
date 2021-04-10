@@ -20,8 +20,8 @@
 #define POWER_DIST_HW_REV 0
 #endif
 
-#define DEBUG_LED1 PA_4
-#define DEBUG_LED2 PA_5
+#define DEBUG_LED1 PB_9
+#define DEBUG_LED2 PB_7
 
 #define FET_PRECHARGE PA_0
 #define FET_MAIN PA_1
